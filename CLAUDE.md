@@ -11,7 +11,7 @@
 
 ## SKILL 文件位置
 
-`say-it-simple.SKILL/say-it-simple.md`
+`say-it-simple.SKILL/SKILL.md`
 
 ## 核心功能
 
@@ -32,7 +32,7 @@
 ## 工作流程
 
 当用户输入 `/说人话 <内容>` 时：
-1. 读取 `say-it-simple.SKILL/say-it-simple.md` 获取技能定义
+1. 读取 `say-it-simple.SKILL/SKILL.md` 获取技能定义
 2. 分析内容类型和场景
 3. 根据内容类型选择合适的输出格式
 4. 生成通俗易懂的解释
